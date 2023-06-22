@@ -97,7 +97,7 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
-~~~
+~~~c
 #include "main.h"
 
 #include "stdio.h"
